@@ -1,0 +1,49 @@
+# IDE and Editor folders
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+.DS_Store
+
+# Logs
+app/logs/*
+*.log
+
+# Config file with sensitive data
+# Uncomment this in production or create a config.local.php
+# app/config/config.php
+
+# Dependencies
+/vendor/
+/node_modules/
+
+# Compiled assets
+/public/dist/
+/public/build/
+/public/assets/
+
+# Temporary files
+/tmp/
+*.tmp
+*.bak
+*.swp
+*~
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Database dumps
+*.sql
+*.sql.gz
+*.dump
+
+# OS generated files
+Thumbs.db
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db 
