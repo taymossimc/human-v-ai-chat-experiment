@@ -11,7 +11,7 @@ app/logs/*
 
 # Config file with sensitive data
 # Uncomment this in production or create a config.local.php
-# app/config/config.php
+app/config/config.php
 
 # Dependencies
 /vendor/
